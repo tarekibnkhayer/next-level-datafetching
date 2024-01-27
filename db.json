@@ -1,0 +1,41 @@
+{
+    "posts": [
+        {
+          "id": 1,
+          "title": "Introduction to JSON",
+          "description": "Learn the basics of JSON, a lightweight data interchange format.",
+          "likes": 120
+        },
+        {
+          "id": 2,
+          "title": "Web Development Fundamentals",
+          "description": "Explore the key concepts of web development for beginners.",
+          "likes": 90
+        },
+        {
+          "id": 3,
+          "title": "Healthy Cooking Tips",
+          "description": "Discover simple and nutritious cooking tips for a healthier lifestyle.",
+          "likes": 150
+        },
+        {
+          "id": 4,
+          "title": "Space Exploration Facts",
+          "description": "Uncover fascinating facts about space exploration and celestial bodies.",
+          "likes": 200
+        },
+        {
+          "id": 5,
+          "title": "DIY Home Decor Ideas",
+          "description": "Get creative with easy do-it-yourself home decor ideas for a personalized touch.",
+          "likes": 80
+        },
+        {
+          "id": 6,
+          "title": "Mindfulness Meditation Techniques",
+          "description": "Explore various mindfulness meditation techniques for stress relief and relaxation.",
+          "likes": 110
+        }
+      ]
+      
+}
