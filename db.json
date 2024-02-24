@@ -4,19 +4,19 @@
           "id": 1,
           "title": "Introduction to JSON",
           "description": "Learn the basics of JSON, a lightweight data interchange format.",
-          "likes": 120
+          "likes": 200
         },
         {
           "id": 2,
           "title": "Web Development Fundamentals",
           "description": "Explore the key concepts of web development for beginners.",
-          "likes": 90
+          "likes": 45
         },
         {
           "id": 3,
           "title": "Healthy Cooking Tips",
           "description": "Discover simple and nutritious cooking tips for a healthier lifestyle.",
-          "likes": 150
+          "likes": 1777
         },
         {
           "id": 4,

@@ -7,7 +7,9 @@ interface Post {
 
 const PostPage = async () => {
     const res   = await fetch("http://localhost:8000/posts", {
-        cache: "force-cache"
+      next: {
+        revalidate: 5
+      }
     });
     const posts: Post[] = await res.json();
     return (
